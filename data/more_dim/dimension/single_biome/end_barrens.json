@@ -1,0 +1,1 @@
+{"type": "minecraft:the_end", "generator": {"type": "minecraft:noise", "seed": 0, "settings": "minecraft:end", "biome_source": {"biome": "minecraft:end_barrens", "type": "minecraft:fixed", "seed": 0}}}

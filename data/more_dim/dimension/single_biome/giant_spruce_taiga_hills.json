@@ -1,0 +1,1 @@
+{"type": "minecraft:overworld", "generator": {"type": "minecraft:noise", "seed": 0, "settings": "minecraft:overworld", "biome_source": {"biome": "minecraft:giant_spruce_taiga_hills", "type": "minecraft:fixed", "seed": 0}}}

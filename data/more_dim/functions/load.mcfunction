@@ -1,0 +1,1 @@
+scoreboard objectives add more_dim_coas minecraft.used:minecraft.carrot_on_a_stick

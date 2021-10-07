@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{id:\"more_dim:mountain_edge_teleporter\",display:{Name:'{\"translate\":\"item.more_dim.mountain_edge_teleporter\"}'},CustomModelData:31400086,usetimes:0}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

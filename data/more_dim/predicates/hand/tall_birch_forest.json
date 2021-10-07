@@ -1,0 +1,11 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand":{
+        "nbt": "{id:'more_dim:tall_birch_forest_teleporter'}"
+      }
+    }
+  }
+}

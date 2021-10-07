@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "more_dim:tp/badlands_plateau"
+  }
+}

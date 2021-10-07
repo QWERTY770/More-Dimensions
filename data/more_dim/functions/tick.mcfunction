@@ -1,0 +1,1 @@
+execute as @a[scores={more_dim_coas=1..}] run function more_dim:use_coas
